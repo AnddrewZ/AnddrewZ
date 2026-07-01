@@ -1,4 +1,4 @@
-Hey there 👋, I'm AnddrewZ (and as you likely have guessed, my name is Andrews :D), I'm a web development and graphic design student! I hope you enjoy my projects and 💬 feel free to contact me about absolutely anything ;) (you can meet me at ata.uandrews@gmail.com). ✨Thank you for reading!✨ 
+Hey there, I'm AnddrewZ (and as you likely have guessed, my name is Andrews :D), I'm a web development and graphic design student! I hope you enjoy my projects and feel free to contact me about absolutely anything ;) (you can meet me at ata.uandrews@gmail.com). ✨Thank you for reading!✨ 
 
 
 <!--
